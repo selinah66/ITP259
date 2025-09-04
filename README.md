@@ -16,19 +16,19 @@ The repository is organized into folders for each module or project.
 
 ## Getting Started
 1. Clone the repository:
-'''
+```
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
-'''
+```
 2. Set up the virtual environment (recommended):
-'''
+```
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-'''
+```
 3. Install dependencies:
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 ## Assignments & Projects
 A brief overview of the key assignments and projects in the course:
